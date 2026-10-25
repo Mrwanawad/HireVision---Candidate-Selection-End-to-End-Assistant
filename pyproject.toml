@@ -1,7 +1,7 @@
 [project]
 name = "hr-end-to-end-assistant"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI CV analyzer that scores PDF or image resumes against recruiter criteria with multi-provider LLMs (Groq, Mistral, Ollama) and structured outputs. FastAPI backend, Streamlit UI, live demo."
 readme = "README.md"
 requires-python = ">=3.12.5"
 dependencies = [
